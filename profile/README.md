@@ -27,10 +27,10 @@ AWS를 통해 배포했습니다.
 
 ## 🌠 Member
 
-|                                    이원노(Leader)                                   |                                    서채영                                    |                                    황동하                                     |
+|                                    이원노(Leader)                                   |                                    황동하                                     |
 | :------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------------------------------: |
-| <img src="https://avatars.githubusercontent.com/u/105614390?v=4" width=150> | <img src="https://avatars.githubusercontent.com/u/97508297?v=4" width=150> | <img src="https://avatars.githubusercontent.com/u/121819598?v=4" width=150> |
-|                 [@Leewonno](https://github.com/Leewonno)                 |                    [@chxxyx](https://github.com/chxxyx)                    |                    [@hdh9078](https://github.com/hdh9078)                     |
+| <img src="https://avatars.githubusercontent.com/u/105614390?v=4" width=150> | <img src="https://avatars.githubusercontent.com/u/121819598?v=4" width=150> |
+|                 [@Leewonno](https://github.com/Leewonno)                 |                    [@hdh9078](https://github.com/hdh9078)                     |
 
 
 <br />
